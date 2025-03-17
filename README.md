@@ -58,8 +58,8 @@ This repository contains three simulation projects focused on robotic control sy
 
 ### 2 DoF manipulator
 
-![graphs2](2DOFRobot/graphs2.jpg)
-![sys](2DOFRobot/sys.png)
+![graphs2](2DoFRobot/graphs2.jpg)
+![sys](2DoFRobot/sys.png)
 
 
 ### DC Motor
